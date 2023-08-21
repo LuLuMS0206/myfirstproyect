@@ -1,0 +1,33 @@
+.menu{
+    display: flex;
+    align-items: center;
+}
+
+.menu-item{
+    color:#18A0FB;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.0141rem;
+    text-decoration: none;
+}
+
+.lista{
+    list-style: none;
+    display: inline;
+    margin: 1.3125rem;
+}
+
+.logo{
+    width: 7.6296rem;
+    height: 2rem;
+    flex-shrink: 0;
+}
+
+.button-menu{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+
