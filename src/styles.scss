@@ -9,6 +9,9 @@
     max-width: 75rem;
     margin: 0 auto;
     padding: 0 5rem;
+    @media (max-width: 714px) {
+        padding: 0 2rem;
+    }
 }
 
 // ESTILOS GENERALES
